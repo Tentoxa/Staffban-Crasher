@@ -1,5 +1,6 @@
 # Staffban Crasher
 Minecraft 1.8.9 mod for the [Hypixel](https://hypixel.net) server. Mostly for scripting.
+<br/>
 This Mod will check every 1min how many people were banned by a staff member. If this number is bigger than your maximum then your game will crash!
 
 ### Commands
